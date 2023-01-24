@@ -1,0 +1,63 @@
+Generics:
+https://docs.python.org/3/library/itertools.html
+https://www.codingem.com/python-for-loop-with-index/
+https://www.geeksforgeeks.org/private-methods-in-python/
+https://stackoverflow.com/questions/8528178/list-of-zeros-in-python
+https://www.geeksforgeeks.org/python-check-if-a-list-exists-in-given-list-of-lists/
+
+Fun stuff (tournament theory):
+https://www.linkedin.com/pulse/ipl-2018-round-robin-binary-tree-prashant-kumar-jadia
+https://link.springer.com/article/10.1007/s10458-020-09483-6
+https://link.springer.com/article/10.1007/s12351-020-00546-w
+https://codereview.stackexchange.com/questions/17703/using-python-to-model-a-single-elimination-tournament
+
+Slicing, array syntax:
+https://stackoverflow.com/questions/509211/understanding-slicing
+
+Flatten a list:
+https://stackoverflow.com/questions/952914/how-do-i-make-a-flat-list-out-of-a-list-of-lists
+
+Rotating lists (round robin):
+https://en.wikipedia.org/wiki/Round-robin_tournament
+https://github.com/sasatatar/berger-table-generator/blob/master/index.js
+https://stackoverflow.com/questions/2150108/efficient-way-to-rotate-a-list-in-python
+
+Binary tree basics:
+https://www.geeksforgeeks.org/binary-tree-data-structure/#Introduction
+https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm
+https://binarytree.readthedocs.io/en/main/overview.html
+
+Binary tree creation:
+https://www.geeksforgeeks.org/create-a-tree-in-level-order/
+
+Binary tree height:
+https://favtutor.com/blogs/binary-tree-height#:~:text=The%20height%20of%20the%20binary,that%20node%20would%20be%200.
+https://stackoverflow.com/questions/15214852/calculating-depth-of-a-binary-tree-in-python
+
+Binary tree root-to-leaf paths:
+https://www.procoding.org/all-root-to-leaf-paths-of-a-binary-tree/
+https://www.geeksforgeeks.org/given-a-binary-tree-print-all-root-to-leaf-paths/
+
+Probability of a path theory:
+https://ai.plainenglish.io/finding-oscars-dog-8d5c2f11b237
+
+Elo calculation:
+https://www.geeksforgeeks.org/elo-rating-algorithm/
+
+Decision tree theory:
+https://www.c-sharpcorner.com/article/decision-tree/
+https://medium.com/@Packt_Pub/binary-decision-trees-1ec94cfed208
+https://online.stat.psu.edu/stat508/book/export/html/647
+
+ML with decision trees:
+https://www.w3schools.com/python/python_ml_decision_tree.asp
+https://scikit-learn.org/stable/modules/tree.html
+https://towardsdatascience.com/understanding-decision-trees-for-classification-python-9663d683c952
+https://medium.com/@polanitzer/building-a-decision-tree-classifier-in-python-step-by-step-9d4eeff02292
+
+Old shit:
+http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf?fbclid=IwAR2sQk2jHOiGBwgPnTR-VJFSFHTbgxHnE2fSDcML17NSikkILftvqAHv42o
+
+https://stackoverflow.com/questions/60422346/traverse-decision-tree-based-on-values-iteratively-going-into-sub-dictionaries
+https://favtutor.com/blogs/level-order-traversal-python
+http://blog.nextgenetics.net/?e=64
