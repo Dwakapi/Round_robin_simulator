@@ -1,0 +1,3 @@
+# Round_robin_simulator
+
+This code creates a simulation of a tournament. It uses a recursive method to create a tree of outcomes for the tournament based on a list of players and their match-ups. The script also uses a recursive method to find all possible root-to-leaf paths in the tree of outcomes, and store the match ids and associated probabilities for each path. The script also includes a helper function that creates a list of zeroes for a given length and the main class "Tournament" that contains all the simulated tournament data and methods to create the tree of outcomes, find the paths, and calculate cumulative probabilities.
